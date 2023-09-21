@@ -1,0 +1,5 @@
+Use w/a/s/d keys from the keyboard to move the robot(R). 
+
+0 is the final destination. There are some hidden boomb in that structure. If your robot(R) step on the boomb then the system will stop and shoe GAME OVER. So be careful. 
+
+Good Luck!
